@@ -15,7 +15,7 @@ I am a developer who is passionate about stuff like data science, machine learni
 <!-- <p align = "center"> -->
   <img src = "https://github-readme-stats.vercel.app/api?username=lit26&show_icons=true&theme=tokyonight&line_height=33">
  <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lit26&hide=jupyter%20notebook,css,Stata&theme=tokyonight &layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lit26&hide=jupyter%20notebook,css,Stata&theme=tokyonight&layout=compact">
 <!-- </p> -->
 
 
